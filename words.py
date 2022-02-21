@@ -90,6 +90,10 @@ class Words:
 
         total = len(self.words)
 
+        if (total == 0):
+            print("no words left! the word might not be registered!")
+            exit()
+
         # counting ocurrencies
         for word in self.words:
             for letter in set(word):
