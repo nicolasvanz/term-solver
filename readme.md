@@ -1,4 +1,4 @@
-this is a simple solver for the puzzle available in [term.ooo] (https://term.ooo)
+this is a simple solver for the puzzle available in [term.ooo](https://term.ooo/)
 
 usage:
 type the word followed by the info that is shown in the screen. Example:
