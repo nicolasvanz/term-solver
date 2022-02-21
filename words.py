@@ -29,7 +29,7 @@ class Words:
                 if c[1] == w:
                     wrong_idx.remove(w)
             for p in present_idx:
-                if p[1] == w:
+                if p[1] == w and w in wrong_idx:
                     wrong_idx.remove(w)
         
         if error:
