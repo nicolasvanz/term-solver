@@ -193,5 +193,5 @@ def get_words():
         "breve", "exodo", "vilao", "letra", "vapor", "libra", "amido", "imune", "pular", "lagoa", "bomba", "horas", "casal", "sacar", "meros", "tunel", "rural", 
         "mudar", "chapa", "usada", "atroz", "etnia", "nenem", "orfao", "calda", "chale", "furos", "ontem", "copia", "raiar", "novas", "cauda", "meigo", "vinho", 
         "joias", "lavar", "bufao", "aulas", "lojas", "safra", "odiar", "tchau", "arroz", "carne", "prumo", "fotos", "junco", "epico", "tesao", "refem", "manta", 
-        "raios", "humor", "sanar", "dique", "berço", "fluor", "sosia", "local", "gemer", "saber", "visar", "raial"
+        "raios", "humor", "sanar", "dique", "berço", "fluor", "sosia", "local", "gemer", "saber", "visar", "raial", "disco"
     ]

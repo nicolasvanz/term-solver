@@ -1,9 +1,19 @@
 from words import *
 
 
-words = Words()
 
-while(True):
-    guess, info = input().split()
+def main():
+    global words
 
-    words.guess(guess, info)
+    while(True):
+        try:
+            guess, info = input().split()
+        except ValueError:
+            print("invalid usage. Type the word and info separated by one space")
+            continue
+        
+        words.guess(guess, info)
+
+if __name__ == "__main__":
+    words = Words()
+    main()
