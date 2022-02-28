@@ -1,4 +1,4 @@
-from words import *
+from python.words import *
 
 
 
