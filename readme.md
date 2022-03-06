@@ -47,7 +47,7 @@ Before the first tip, you need to input the first word by your own.
 To type your guess you need to do like this, for example:
 
 ```
-termo rryry
+termo rygrr
 
 t -> not present (red)
 e -> present but in wrong position (yellow)
