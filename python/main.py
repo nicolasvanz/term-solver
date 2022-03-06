@@ -1,5 +1,4 @@
-from python.words import *
-
+from words import *
 
 
 def main():
