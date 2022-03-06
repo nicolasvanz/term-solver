@@ -35,3 +35,31 @@ pip3 install -r requirements.txt
 ```
 python3 main.py
 ```
+
+# Wordle Solver with GO
+
+A simple [Woordle](https://www.nytimes.com/games/wordle/index.html) solver using Go Lang.
+
+## How to user
+
+Before the first tip, you need to input the first word by your own.
+
+To type your guess you need to do like this, for example:
+
+```
+termo rryry
+
+t -> not present (red)
+e -> present but in wrong position (yellow)
+r -> present and in right position (green)
+m -> not present (red)
+o -> not present (red)
+```
+After the guess the programm recommends a suggest to you.
+
+## Running code
+
+In the root folder of your project:
+```
+go run *.go
+```
