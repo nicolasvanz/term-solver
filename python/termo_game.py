@@ -21,7 +21,7 @@ class TermoGame:
                 print("bad info content. Letter info must be 'g', 'y' or 'r'")
                 return False
 
-            return True
+        return True
 
     def guess(self, guess, info):
         if not self.info_is_valid(info):
