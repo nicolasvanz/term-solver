@@ -78,5 +78,5 @@ def get_words():
         "mudar", "chapa", "usada", "atroz", "etnia", "nenem", "orfao", "calda", "chale", "furos", "ontem", "copia", "raiar", "novas", "cauda", "meigo", "vinho",
         "joias", "lavar", "bufao", "aulas", "lojas", "safra", "odiar", "tchau", "arroz", "carne", "prumo", "fotos", "junco", "epico", "tesao", "refem", "manta",
         "raios", "humor", "sanar", "dique", "berço", "fluor", "sosia", "local", "gemer", "saber", "visar", "raial", "disco", "leais", "poste", "preco", "crepe",
-        "tocha"
+        "tocha", "feros", "sovar", "vesgo"
     ]
